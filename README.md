@@ -13,4 +13,12 @@ insights, my team will design a new marketing strategy to convert casual riders 
 members. But first, Cyclistic executives must approve my recommendations, so they must be
 backed up with compelling data insights and professional data visualizations.
 
-In this capstone project we follow
+In this capstone project we follow the following steps and recor in Rstudio in the Rdiviy codes file.
+
+The data analysis project steps are:
+1. Ask
+2. Prepare
+3. process
+4. Analyze
+5. Share
+6. Act
