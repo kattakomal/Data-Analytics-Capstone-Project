@@ -41,4 +41,7 @@ Now that your data is stored appropriately and has been prepared for analysis, s
 to work.
 
 Share:
-In this step, we create data visulizations to share your findings. These visualizations are created based on the analysis of the data which is saved as 
+In this step, we create data visulizations to share your findings. These visualizations are created based on the analysis of the data which is saved as Rplot and Rplot1 image files in the root directory.
+
+Act:
+Based on the analysis and visualizations, the number of rides per weekday for member and casual subcribers shows that the members use the rides high every day of the week. And also, the avergae duration per weekday for member and casual subcribers shows that the casual subcribers have very high ride duration. Thus this answers the Morenos business question has been answered. Thus based on the analysis, we can recommend that the process to increase the member subcribtions.
