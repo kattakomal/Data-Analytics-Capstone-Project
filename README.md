@@ -22,3 +22,23 @@ The data analysis project steps are:
 4. Analyze
 5. Share
 6. Act
+
+
+Ask:
+In this step, Moreno has assigned me the first question to answer: How do annual members and casual riders use Cyclistic bikes differently?
+
+By following this step, will produce a report with clear statement of business task and description of all data sources used. And summary of analysis, documentation of any cleaning or manipulation of data.
+
+Prepare:
+In this step, Use Cyclistic’s historical trip data to analyze and identify trends.  This is public data that you can use to explore
+how different customer types are using Cyclistic bikes.
+
+Process:
+In this step, process of your data analysis which is clrearly displayed in the R scripts file.
+
+Analyze:
+Now that your data is stored appropriately and has been prepared for analysis, start putting it
+to work.
+
+Share:
+In this step, we create data visulizations to share your findings. These visualizations are created based on the analysis of the data which is saved as 
